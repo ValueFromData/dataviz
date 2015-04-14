@@ -8,3 +8,4 @@ Instructive data visualization examples
 - [D3 stacked-to-grouped bars](http://bl.ocks.org/mbostock/3943967)
 - [Tendulkar's rise and fall](https://my.infocaptor.com/dash/mt.php?pa=tendulkar_5425757cbb623)
 - [India population](http://bl.ocks.org/karmadude/4526201)
+- [UK temperature](http://charts.animateddata.co.uk/uktemp/)
